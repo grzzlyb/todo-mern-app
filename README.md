@@ -61,8 +61,7 @@ The application will be running at http://localhost:8080.
 ## Configuration
 
 1. **Database Setup:**
-   - For MongoDB: Ensure MongoDB is installed and running.
-   - For SQLite: Setup the SQLite database as required.
+   - For SQLite: Setup the SQLite database as required. (here, look for testdb.db file)
 
 2. **Environment Variables:**
    - Configure any necessary environment variables in a `.env` file.
