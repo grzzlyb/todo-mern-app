@@ -13,8 +13,8 @@ This Todo application is built using the MERN stack, consisting of MongoDB, Expr
 
 1. **Clone Repository:**
     ```bash
-    git clone https://github.com/grzzlyb/mern-todo-app.git
-    cd todo-mern-app
+    git clone https://github.com/grzzlyb/todo-mern-app.git
+    cd mern-todo-app
     ```
 
 2. **Install Dependencies:**
